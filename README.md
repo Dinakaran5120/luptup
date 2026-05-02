@@ -113,3 +113,13 @@ now you could able to see the entire projrct src code
 * Real-Time Chat – Secure messaging between matches.
 * Open-Source – Transparent and community-driven.
 * Cross-Platform – Available for Web, Android, and iOS. also should be there later i will give prompt to build backedn as of now i need premium ui production readyscreens
+
+Android Bundled 41181ms node_modules\expo-router\entry.js (2092 modules)
+ (NOBRIDGE) LOG  Bridgeless mode is enabled
+ INFO  
+ 💡 JavaScript logs will be removed from Metro in React Native 0.77! Please use React Native DevTools as your default tool. Tip: Type j in the terminal to open (requires Google Chrome or Microsoft Edge).
+ (NOBRIDGE) WARN  [Layout children]: No route named "phone" exists in nested children: ["email-otp", "email", "otp", "sign-in"] [Component Stack]
+ (NOBRIDGE) WARN  [Layout children]: No route named "phone" exists in nested children: ["email-otp", "email", "otp", "sign-in"] [Component Stack]
+ (NOBRIDGE) WARN  [Layout children]: No route named "phone" exists in nested children: ["email-otp", "email", "otp", "sign-in"] [Component Stack]
+ (NOBRIDGE) WARN  [Layout children]: No route named "phone" exists in nested children: ["email-otp", "email", "otp", "sign-in"] [Component Stack]
+
